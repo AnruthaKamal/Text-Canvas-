@@ -13,7 +13,7 @@ StackGAN utilizes Stacked Generative Adversarial Networks (GANs) to generate hig
 2. **Stage-II GAN:** Corrects defects in the low-resolution image from Stage-I and completes the details of the object by revisiting the text description. It produces a high-resolution, photo-realistic image.
 
 ## Architecture
-![StackGAN Architecture](https://www.google.com/imgres?q=stack%20gan&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F31109495%2F94064358-32e02d00-fe07-11ea-8ae0-a53e443f9509.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fsavya08%2FStackGAN&docid=Ltn0yZkU_PK-9M&tbnid=fgakjp4-FJNRJM&vet=12ahUKEwicxNa-vZGGAxUNm68BHWp9BFsQM3oECBMQAA..i&w=1311&h=596&hcb=2&ved=2ahUKEwicxNa-vZGGAxUNm68BHWp9BFsQM3oECBMQAA)
+![image](https://github.com/AnruthaKamal/Text-Canvas-/assets/107014168/59a69abe-455b-4543-8bc7-edafb3cbd24f)
 *Figure: StackGAN Architecture*
 ## Why StackGAN?
 - Earlier architectures faced limitations in generating high-resolution and diverse images from text descriptions.
